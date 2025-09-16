@@ -1,3 +1,8 @@
+Question:-
+       Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+Code:-
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int newarray[]=new int [2];
